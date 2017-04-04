@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Emerge</string>
+
+    <string name="checkout_button">CHECKOUT</string>
+    <string name="queue_button">QUEUE ME</string>
+    <string name="checkout">Please,it your time to checkout.</string>
+</resources>

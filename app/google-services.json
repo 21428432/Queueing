@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "430217915393",
+    "firebase_url": "https://emerg-b9ae7.firebaseio.com",
+    "project_id": "emerg-b9ae7",
+    "storage_bucket": "emerg-b9ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430217915393:android:edc2cf0caad22108",
+        "android_client_info": {
+          "package_name": "shabalala.thamsanqa.queueing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430217915393-fvp4muqc6t2o5smejejukt642c451ml2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp0SUAgLidJjpsAxPNpUl-G2tXVXZezjg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
